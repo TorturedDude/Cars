@@ -40,7 +40,7 @@ public class Engine {
     }
 
     public String toString(){
-        return String.format("Двигатель комании : '%s', с мощьностью %d", this.company, this.power);
+        return String.format("двигателем комании : '%s', с мощьностью %d", this.company, this.power);
     }
 
 }
