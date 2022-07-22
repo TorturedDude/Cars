@@ -6,3 +6,4 @@
 5)Создать производный от Car класс  - Lorry (грузовик), характеризуемый также грузоподъемностью кузова.
 6)Создать производный от Car класс - SportCar, характеризуемый также предельной скоростью.
 7)Пусть класс Driver расширяет класс Person.
+![Image alt](https://storage.googleapis.com/www.examclouds.com/oop/car-ierarchy.png)
